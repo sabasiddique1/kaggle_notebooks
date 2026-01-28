@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+nltk
+gensim
+tensorflow
+umap-learn
+matplotlib
