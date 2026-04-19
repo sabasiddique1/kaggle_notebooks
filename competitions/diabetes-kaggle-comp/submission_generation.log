@@ -1,0 +1,17 @@
+======================================================================
+Generating submission.csv from notebook
+======================================================================
+Notebook: notebooks/comprehensive/diabetes_prediction.ipynb
+This will take 5-10 minutes...
+
+Reading notebook...
+Executing notebook...
+
+✅ Notebook executed successfully!
+
+✅ Submission file found at: submission.csv
+   File size: 7,805,729 bytes
+
+======================================================================
+Done!
+======================================================================

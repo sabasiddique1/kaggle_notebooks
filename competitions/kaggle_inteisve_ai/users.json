@@ -1,0 +1,42 @@
+{
+  "patient@demo.com": {
+    "id": "cgrhg94bEohCXrOP-4xiSw",
+    "email": "patient@demo.com",
+    "name": "Demo Patient",
+    "role": "patient",
+    "facility_name": null,
+    "password_hash": "d4587ea9ead060c13fd994f21ecfa7926272a78854a2c20136b10a3c9e53e71e"
+  },
+  "hospital@demo.com": {
+    "id": "dr4clx_XQDmN4xWK2A7PDQ",
+    "email": "hospital@demo.com",
+    "name": "Hospital Staff",
+    "role": "hospital_staff",
+    "facility_name": "Aga Khan University Hospital",
+    "password_hash": "b936f714e474cd6ccc2843f2a5e9b1c6dd5a3c00fa5e1069b77fbb2d40524d3d"
+  },
+  "staff@demo.com": {
+    "id": "c15CHFGfbk_7EPkNaPA_Cw",
+    "email": "staff@demo.com",
+    "name": "Receptionist",
+    "role": "hospital_staff",
+    "facility_name": "Jinnah Hospital",
+    "password_hash": "10176e7b7b24d317acfcf8d2064cfd2f24e154f7b5a96603077d5ef813d6a6b6"
+  },
+  "timhorton@gmail.com": {
+    "id": "NYWS02BETKQssil9QVI_Vg",
+    "email": "timhorton@gmail.com",
+    "name": "Tim Horton",
+    "role": "patient",
+    "facility_name": null,
+    "password_hash": "c974e631f72d24aee831f44181e4796d213658d69d6590ddc2fe6d9e4321648c"
+  },
+  "test@example.com": {
+    "id": "SvZZD0BU9QvUKjFRTM5D6g",
+    "email": "test@example.com",
+    "name": "test",
+    "role": "patient",
+    "facility_name": null,
+    "password_hash": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae"
+  }
+}

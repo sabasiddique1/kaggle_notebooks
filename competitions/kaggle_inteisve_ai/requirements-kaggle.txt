@@ -1,0 +1,22 @@
+# Minimal requirements for Kaggle notebook
+# These are the only packages needed for emergencycarenavigator-agent-capstone.ipynb
+# 
+# Note: You may see dependency conflict warnings from Kaggle's pre-installed packages
+# (bigframes, google-cloud-translate, ray, pydrive2, gcsfs). These can be safely ignored
+# as they are not used in our code.
+
+requests>=2.31.0
+pydantic>=2.5.0
+rich>=12.4.4,<14  # Compatible with bigframes requirement
+google-generativeai>=0.3.1
+
+# To install in Kaggle notebook:
+# !pip install -q -r requirements-kaggle.txt
+# 
+# Or install individually:
+# !pip install -q requests pydantic "rich>=12.4.4,<14" google-generativeai
+
+
+
+
+
