@@ -1,0 +1,7 @@
+.venv/
+data/
+outputs/
+competitors/
+*.zip
+kaggle.json
+access_token
